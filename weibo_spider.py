@@ -359,7 +359,7 @@ def main():
 
         # 代理服务器
         # proxyHost = "112.29.170.230"
-        t
+        
         proxyHost = "123.249.34.10"
         proxyPort = "888"
         # 代理隧道验证信息
